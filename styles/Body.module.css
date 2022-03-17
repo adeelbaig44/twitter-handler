@@ -1,0 +1,11 @@
+.container {
+  margin: 1rem 0;
+}
+
+.flexContainer {
+  display: flex;
+}
+
+.input {
+  margin-right: 10px;
+}
